@@ -8,12 +8,12 @@ export default function Footer() {
   return (
     <div className="">
       
-      <div className='md:mt-20 py-16 p-3 bg-slate-900 text-white grid grid-cols-1 md:grid-cols-4 place-item-center  md:gap-5 gap-5'>
+      <div className='md: py-16 p-3 bg-slate-900 text-white grid grid-cols-1 md:grid-cols-4 place-item-center  md:gap-5 gap-5'>
         <div className="">
           <div className="pb-4">
             <div className="flex items-center gap-1 text-white text-4xl font-medium">
               <FaBowlFood className='text-yellow-500'/> 
-              <h1 className=''>MJ<span className='text-yellow-500'>'s_</span>Foo<span className='text-yellow-500'>d</span></h1>
+              <h1 className=''>JANET<span className='text-yellow-500'>'s_</span>Foo<span className='text-yellow-500'>d</span></h1>
               <IoFastFoodOutline className='text-yellow-500'/>
             </div>
             <div className="max-w-[80px] md:ml-20 ml-24 rounded-md mt-4 p-1 bg-slate-100 relative">
@@ -61,7 +61,7 @@ export default function Footer() {
               <p className='text-yellow-500 text-sm p-2'>Office Email</p>
               <div className="flex items-center gap-1">
                 <p className='text-red-500'><GoMail/></p>
-                <a href="tel:mahmudabdulquadri06@gmail.com">mahmudabdulquadri06@gmail.com</a>
+                <a href="tel:mahmudabdulquadri06@gmail.com">janet091@gmail.com</a>
               </div>
             </div>
           </div>

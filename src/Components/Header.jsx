@@ -33,9 +33,9 @@ export default function Header() {
                     <a href="tel:07047594667">(+234)704-7594-667</a>
                 </div>
             </div>
-            <div className="flex items-center gap-1 text-white text-4xl">
+            <div className="flex items-center gap-1 text-white lg:text-4xl text-2xl">
                 <FaBowlFood className='text-yellow-500'/> 
-                <h1 className=''>MJ<span className='text-yellow-500'>'s_</span>Foo<span className='text-yellow-500'>d</span></h1>
+                <h1 className=''>JANET<span className='text-yellow-500'>'s_</span>Foo<span className='text-yellow-500'>d</span></h1>
                 <IoFastFoodOutline className='text-yellow-500'/>
             </div>
             <div className="bg-yellow-500
@@ -58,7 +58,7 @@ export default function Header() {
                 </div>
             </div>
             <div className="flex justify-center items-center gap-4">
-                <Link to={'/'} className='font-medium'>LOGIN</Link>
+                <Link to={'/login'} className='font-medium'>LOGIN</Link>
                 <FaSearch className='md:text-white text-yellow-500 hidden md:block'/>
             </div>
             <div className="block md:hidden">
