@@ -5,16 +5,20 @@ import Collection from '../Components/Collection'
 import GetApp from '../Components/GetApp'
 import Testimonials from '../Components/Testimonials'
 import WhoWeAre from '../Components/WhoWeAre'
+import Header from '../Components/Header'
+import Footer from '../Components/Footer'
 
 export default function Home() {
   return (
     <div>
-        <Hero/>
-        <QuickSearch/>
-        <WhoWeAre/>
-        <Collection/>
-        <GetApp/>
-        <Testimonials/>
+      <Header/>
+      <Hero/>
+      <QuickSearch/>
+      <WhoWeAre/>
+      <Collection/>
+      <GetApp/>
+      <Testimonials/>
+      <Footer/>
     </div>
   )
 }

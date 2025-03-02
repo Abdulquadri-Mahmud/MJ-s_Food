@@ -16,6 +16,7 @@ import Order from '../Pages/Order'
 import CustomerPage from '../Pages/Customer'
 import MenuPage from '../Pages/MenuPage'
 import AnalyticsPage from '../Pages/AnalyticsPage'
+import Shop from '../Pages/Shop'
 
 export default function PagesRoutes() {
   return (
@@ -25,7 +26,7 @@ export default function PagesRoutes() {
           <Routes>
               <Route path='/' element={<Home/>}/>
               <Route path='/about' element={<About/>}/>
-              <Route path='/shop' element={<GetApp/>}/>
+              <Route path='/shop' element={<Shop/>}/>
               <Route path='/blog' element={<Blog/>}/>
               <Route path='/login' element={<Login/>}/>
               <Route path='/services' element={<Services/>}/>

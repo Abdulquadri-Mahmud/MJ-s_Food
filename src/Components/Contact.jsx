@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Contact() {
   return (
-    <div className='md:max-w-[100%] mx-auto md:p-10 p-3 bgImg3 text-white mt-10'>
+    <div className='md:max-w-[100%] mx-auto md:p-10 p-3 bgImg3 text-white pt-10'>
         <div className="pb-8">
             <h2 className='text-center font-semibold text-4xl text-white'>Get In Touch</h2>
             <div className="max-w-[80px] rounded-md mx-auto mt-4 p-1 bg-white relative">
