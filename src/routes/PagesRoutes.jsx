@@ -17,6 +17,7 @@ import CustomerPage from '../Pages/Customer'
 import MenuPage from '../Pages/MenuPage'
 import AnalyticsPage from '../Pages/AnalyticsPage'
 import Shop from '../Pages/Shop'
+import OurMenu from '../Components/Menu'
 
 export default function PagesRoutes() {
   return (
@@ -26,7 +27,7 @@ export default function PagesRoutes() {
           <Routes>
               <Route path='/' element={<Home/>}/>
               <Route path='/about' element={<About/>}/>
-              <Route path='/shop' element={<Shop/>}/>
+              <Route path='/our-menu' element={<OurMenu/>}/>
               <Route path='/blog' element={<Blog/>}/>
               <Route path='/login' element={<Login/>}/>
               <Route path='/services' element={<Services/>}/>

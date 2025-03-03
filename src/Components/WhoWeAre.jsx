@@ -23,8 +23,8 @@ export default function WhoWeAre() {
                     </div>
                 </div>
                 <div className="text-center md:pt-6">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, provident, deserunt eaque reiciendis error dolorum perspiciatis, officia non eos veniam impedit nostrum animi est. Facere porro similique ipsa minus fuga!</p>
-                    <p className='py-6'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, provident, deserunt eaque reiciendis error dolorum perspiciatis, officia non eos veniam impedit nostrum animi est. Facere porro similique ipsa minus fuga!</p>
+                    <p>Welcome to Janet Food Restaurant, where culinary excellence meets warm hospitality. We take pride in offering a diverse selection of meticulously prepared local and international cuisines, crafted from the finest ingredients. Whether you're starting your day with a hearty breakfast, savoring a flavorful lunch, or indulging in a delightful dinner, our inviting ambiance and exceptional service ensure a memorable dining experience. Join us and treat yourself to a feast of exquisite flavors that delight the senses.Let me know if you'd like any further refinements! 🍽️✨</p>
+                    {/* <p className='py-6'>Janet Food Restaurant is a top-tier dining destination known for its delicious, freshly prepared meals and warm hospitality. Specializing in a variety of local and international cuisines, we take pride in serving high-quality dishes made from the finest ingredients. Whether you're craving a hearty breakfast, a flavorful lunch, or a delightful dinner, Janet Food Restaurant offers a cozy ambiance and exceptional service to make every dining experience memorable. Join us and indulge in a feast of flavors</p> */}
                 </div>
             </div>
         </div>

@@ -51,7 +51,7 @@ export default function Header() {
                 <div className="flex justify-center gap-6">
                     <Link to={'/'} className='font-medium hover:text-slate-800 text-slate-800 duration-150'>HOME</Link>
                     <Link to={'/about'} className='font-medium hover:text-slate-800 duration-150'>ABOUT</Link>
-                    <Link to={'/shop'} className='font-medium hover:text-slate-800 duration-150'>SHOP</Link>
+                    <Link to={'/our-menu'} className='font-medium hover:text-slate-800 duration-150 uppercase'>Menu</Link>
                     <Link to={'/blog'} className='font-medium hover:text-slate-800 duration-150'>BLOG</Link>
                     <Link to={'/services'} className='font-medium hover:text-slate-800 duration-150'>SERVICES</Link>
                     <Link to={'/contact'} className='font-medium hover:text-slate-800 duration-150'>CONTACT</Link>
@@ -75,7 +75,7 @@ export default function Header() {
                                 <div className="mt-24 flex flex-col gap-6">
                                     <Link to={'/'} className='font-medium hover:text-yellow-500 duration-150'>HOME</Link>
                                     <Link to={'/about'} className='font-medium hover:text-yellow-500 duration-150'>ABOUT</Link>
-                                    <Link to={'/shop'} className='font-medium hover:text-yellow-500 duration-150'>SHOP</Link>
+                                    <Link to={'/our-menu'} className='font-medium hover:text-yellow-500 duration-150 uppercase'>menu</Link>
                                     <Link to={'/blog'} className='font-medium hover:text-yellow-500 duration-150'>BLOG</Link>
                                     <Link to={'/services'} className='font-medium hover:text-yellow-500 duration-150'>SERVICES</Link>
                                     <Link to={'/contact'} className='font-medium hover:text-yellow-500 duration-150'>CONTACT</Link>

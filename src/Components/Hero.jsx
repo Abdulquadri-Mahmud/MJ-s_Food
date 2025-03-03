@@ -11,7 +11,7 @@ export default function Hero() {
           <div className="bg-white w-[300px] p-1 mx-auto mt-4">
             <h1 className='text-yellow-500 md:text-5xl text-4xl font-semibold text-center'>YOUR CITY</h1>
           </div>
-          <p className='pt-6 md:text-xl'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta alias porro, illum est blanditiis laudantium ipsam ullam voluptatibus beatae tempora eius voluptatem, expedita inventore illo rem dolorum ab fugiat dolor.</p>
+          <p className='pt-6 md:text-xl'>Welcome to Janet Food Restaurant, where culinary excellence meets warm hospitality. We take pride in offering a diverse selection of meticulously prepared local and international cuisines, crafted from the finest ingredients.</p>
           <div className="mt-6 flex justify-center">
             <button className='w-[120px] h-[45px] bg-yellow-500'>Our Menu</button>
             <button className='w-[120px] h-[45px] bg-slate-800'>Order Now</button>
