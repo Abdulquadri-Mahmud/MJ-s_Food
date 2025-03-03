@@ -38,8 +38,8 @@ const Login = () => {
       return;
     }
 
-    if (matricNumber.length !== 6) {
-      setError("Matric Number must be exactly 6 digits");
+    if (matricNumber.length !== 11) {
+      setError("Matric Number must be exactly 1 digits");
       return;
     }
 
